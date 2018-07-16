@@ -7,6 +7,4 @@ Specify -verify on command line to require confirmation for each removal operati
 
 # download
 
-Download cleanWindows.exe, then right click on file and select properties, then check Unblock to allow execution.
-
-![check Unblock](https://github.com/dragondaud/cleanWindows/blob/master/cleanWindows.png "Unblock")
+Download [cleanWindows-master.zip](./archive/master.zip), extract and run cleanWindows.exe.
