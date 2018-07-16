@@ -1,6 +1,8 @@
 <# cleanWindows.ps1 [-verify]
 
- remove bloatware from Windows 10
+ remove bloatware from Windows 10 Build 17134
+ 
+ ps2exe.ps1 cleanWindows.ps1 cleanWindows.exe -requireAdmin -noConfigfile
 
 #>
 
