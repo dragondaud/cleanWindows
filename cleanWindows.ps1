@@ -4,6 +4,7 @@
  
  ps2exe.ps1 cleanWindows.ps1 cleanWindows.exe -requireAdmin -noConfigfile
 
+	Copyright (c) 2018 David M Denney
 #>
 
 #Requires -Version 4
