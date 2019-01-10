@@ -1,5 +1,5 @@
 # cleanWindows
-**Remove unwanted default software from Microsoft Windows 10 Build 17134**
+**Remove unwanted default software from Microsoft Windows 10 Build 17763**
 
 This script was written to remove unwanted Microsoft bloatware from Windows 10,
 some of which is re-installed every time a feature update is applied. I've included
